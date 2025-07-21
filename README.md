@@ -9,7 +9,6 @@ A romantic, aesthetic React web app with glassmorphism effects, playful button i
 - **Romantic Fonts:** Uses [Dancing Script](https://fonts.google.com/specimen/Dancing+Script) for headings and [Quicksand](https://fonts.google.com/specimen/Quicksand) for body text.
 - **Playful Button Swap:** "No" button swaps position on hover (desktop) or click (mobile/tablet).
 - **Lovely Backgrounds:** Gradient overlays and romantic images.
-- **Instagram Link:** Easily add your Instagram for a personal touch.
 
 ## Getting Started
 
