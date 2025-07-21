@@ -22,7 +22,7 @@ A romantic, aesthetic React web app with glassmorphism effects, playful button i
    npm run dev
    ```
 3. **Open in browser:**  
-   Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
+   Visit [https://ping-myheart.onrender.com](https://ping-myheart.onrender.com).
 
 ## Project Structure
 
