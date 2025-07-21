@@ -1,4 +1,4 @@
-# HeartMessenger 💖
+# PingMyHeart 💖
 
 A romantic, aesthetic React web app with glassmorphism effects, playful button interactions, and lovely fonts. Perfect for expressing love in a modern, interactive way!
 
